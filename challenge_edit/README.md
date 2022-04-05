@@ -31,13 +31,13 @@ Based on traveler’s weather preferences (in this case which is me, I selected 
 
 ## **Sample Travel Destinations**
 
-![image_name](WeatherPy_vacation_map.png)
+![image_name](https://github.com/ruimin1231/World_Weather_Analysis-Public/blob/main/challenge_edit/images/WeatherPy_vacation_map.png)
 
 ### Vacation Itinerary
 
 Using the Google Directions API, a sample itinerary was created that shows the route between five cities in Australia.
 
-![image_name](WeatherPy_travel_map.png) 
+![image_name](https://github.com/ruimin1231/World_Weather_Analysis-Public/blob/main/challenge_edit/images/WeatherPy_travel_map.png) 
 
 ## **Statistical Analysis**
 
@@ -52,16 +52,17 @@ Global city data was plotted, and linear regression was used to find the relatio
 ---
 Scatter plots were created for each weather parameter against the latitude for all cities to show how different weather parameters change based on latitude.
 
-![image_name](Northern_Hemisphere.png)
+![image_name](https://github.com/ruimin1231/World_Weather_Analysis-Public/blob/main/challenge_edit/images/Northern_Hemisphere.png)
 
-![image_name](Northern_Hemisphere_Humidity.png)
+![image_name](https://github.com/ruimin1231/World_Weather_Analysis-Public/blob/main/challenge_edit/images/Northern_Hemisphere_Humidity.png)
 
-![image_name](Northern_Hemisphere_windspeed.png)
+![image_name](https://github.com/ruimin1231/World_Weather_Analysis-Public/blob/main/challenge_edit/images/Northern_Hemisphere_windspeed.png)
 
-![image_name](Southern_Hemisphere.png)
+![image_name](https://github.com/ruimin1231/World_Weather_Analysis-Public/blob/main/challenge_edit/images/Southern_Hemisphere.png)
 
-![image_name](Southern_Hemisphere_cloudiness.png)
+![image_name](https://github.com/ruimin1231/World_Weather_Analysis-Public/blob/main/challenge_edit/images/Southern_Hemisphere_cloudiness.png)
 
-![image_name](Southern_Hemisphere_humidity.png)
+![image_name](https://github.com/ruimin1231/World_Weather_Analysis-Public/blob/main/challenge_edit/images/Southern_Hemisphere_humidity.png)
 
-![image_name](Southern_Hemisphere_windspeed.png)
+![image_name](https://github.com/ruimin1231/World_Weather_Analysis-Public/blob/main/challenge_edit/images/Southern_Hemisphere_windspeed.png)
+
